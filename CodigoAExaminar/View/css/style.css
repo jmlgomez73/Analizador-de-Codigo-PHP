@@ -1,0 +1,14 @@
+
+.error{	
+	color: red;
+}
+
+body{
+	margin: 0 auto;
+	text-align:left;
+	width:70%;
+}
+
+table, th, td {
+    border: 0.5px solid black;
+}

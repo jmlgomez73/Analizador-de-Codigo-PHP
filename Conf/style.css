@@ -1,0 +1,30 @@
+/*Autor:Jorge Manuel Lozano Gomez.
+Fecha: 20/04/2018*/
+
+	.error{	
+		color: red;
+
+	}
+
+	.resumen{
+			font-size: 50px;
+	text-align:center;
+		}
+
+	.detalle{
+			font-size: 50px;
+	text-align:center;
+		}
+
+	body{
+
+		text-align:left;
+		width:70%;
+		margin-top: 5%;
+			margin-bottom: 5%;
+			margin-left: 15%;
+	}
+
+	table, th, td {
+	    border: 0.5px solid black;
+	}
