@@ -1,33 +1,35 @@
-
 # Analizador de código PHP
 
-*Este programa analiza diversos ficheros (codificados en PHP) que se especifiquen en el archivo de "directories", posteriormente analizara los códigos y detectara errores en *comentarios, bucles, estructuras de control, variables, falta de ficheros, etc...
-*Además indicara donde esta el fallo.
+
+Este programa analiza diversos ficheros (codificados en PHP) que se especifiquen en el archivo de "directories", posteriormente analizará los códigos y detectará errores en comentarios, bucles, estructuras de control, variables, falta de ficheros, etc...
+Además indicará donde está el fallo.
+
 
 ## Situaciones que analiza el programa
 
-*1 Existen los directorios especificados en el fichero Directories.conf y no hay ningun fichero mas en el directorio principal que el index.php
 
-*2 Los ficheros de vista, controlador y modelo tienen el nombre indicado en la especificacion en el fichero Files.conf
+1 Existen los directorios especificados en el fichero Directories.conf y no hay ningun fichero mas en el directorio principal que el index.php
 
-*3 Los ficheros del directorio CodigoAExaminar tiene todos al principio del fichero comentada su funcion, autor y fecha (para todos los ficheros que no son propietarios de tipo *.pdf, .jpg, etc)
+2 Los ficheros de vista, controlador y modelo tienen el nombre indicado en la especificación en el fichero Files.conf
 
-*4 Las funciones y metodos en el codigo del directorio CodigoAExaminar tienen comentarios con una descripcion antes de su comienzo
+3 Los ficheros del directorio CodigoAExaminar tiene todos al principio del fichero comentada su función, autor y fecha (para todos los ficheros que no son propietarios de tipo .pdf, .jpg, etc)
 
-*5 En el codigo estan todas las variables definidas antes de su uso y tienen un comentario en la linea anterior o en la misma linea
+4 Las funciones y métodos en el código del directorio CodigoAExaminar tienen comentarios con una descripción antes de su comienzo
 
-*6 En el codigo estan comentadas todas las estructuras de control en la linea anterior a su uso o en la misma linea
+5 En el código están todas las variables definidas antes de su uso y tienen un comentario en la línea anterior o en la misma linea
 
-*7 Todos los ficheros dentro del directorio Model son definiciones de clases
+6 En el código están comentadas todas las estructuras de control en la línea anterior a su uso o en la misma linea
 
-*8 Todos los ficheros dentro del directorio Controller son scripts php.
+7 Todos los ficheros dentro del directorio Model son definiciones de clases
 
-*9 Todos los ficheros dentro del directorio View son definiciones de clases
+8 Todos los ficheros dentro del directorio Controller son scripts php.
+
+9 Todos los ficheros dentro del directorio View son definiciones de clases
 
 
 ## Despliegue 📦
 
-*Para ejecutar el código hay que utilizar un servidor web Apache, el cual puede ser proporcionado por programas como * [XAMPP](https://www.apachefriends.org/es/index.html).
+Para ejecutar el código hay que utilizar un servidor web Apache, el cual puede ser proporcionado por programas como * [XAMPP](https://www.apachefriends.org/es/index.html).
 
 
 ## Futuras aplicaciones o reutilizaciones
@@ -38,6 +40,7 @@ Se pueden utilizar los patrones y bloques de código para crear otras funcionali
 ## Autores ✒️
 
 * **Jorge Manuel Lozano Gómez**
+
 
 
 ## Preview de la Aplicacion Web:
