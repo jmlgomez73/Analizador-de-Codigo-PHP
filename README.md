@@ -45,7 +45,7 @@ Se pueden utilizar los patrones y bloques de código para crear otras funcionali
 <p align="center">
   <img src="https://github.com/jmlgomez73/Analizador_de_Codigo_PHP/blob/master/Previews/1.png" width="500" title="hover text">
 </p>
-<p align="right">
+<p align="center">
   <img src="https://github.com/jmlgomez73/Analizador_de_Codigo_PHP/blob/master/Previews/2.png" title="hover text">
 </p>
 
