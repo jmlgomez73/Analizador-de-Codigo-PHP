@@ -43,9 +43,9 @@ Se pueden utilizar los patrones y bloques de código para crear otras funcionali
 ## Preview de la Aplicacion Web:
 
 <p align="center">
-  <img src="https://github.com/jmlgomez73/Analizador_de_Codigo_PHP/blob/master/Previews/1.png" width="500" title="hover text">
+  <img src="https://github.com/jmlgomez73/Analizador_de_Codigo_PHP/blob/master/Previews/1.png" width="1800" title="hover text">
 </p>
 <p align="center">
-  <img src="https://github.com/jmlgomez73/Analizador_de_Codigo_PHP/blob/master/Previews/2.png" width="500" title="hover text">
+  <img src="https://github.com/jmlgomez73/Analizador_de_Codigo_PHP/blob/master/Previews/2.png" width="1800" title="hover text">
 </p>
 
