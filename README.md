@@ -29,7 +29,8 @@ Además indicará donde está el fallo.
 
 ## Despliegue 📦
 
-Para ejecutar el código hay que utilizar un servidor web Apache, el cual puede ser proporcionado por programas como * [XAMPP](https://www.apachefriends.org/es/index.html).
+Para ejecutar el código hay que utilizar un servidor web Apache, el cual puede ser proporcionado por programas como:
+* [XAMPP](https://www.apachefriends.org/es/index.html).
 
 
 ## Futuras aplicaciones o reutilizaciones
