@@ -38,7 +38,7 @@ Para ejecutar el código hay que utilizar un servidor web Apache, el cual puede 
 Se pueden utilizar los patrones y bloques de código para crear otras funcionalidades.
 
 
-## Autores ✒️
+## Autor ✒️
 
 * **Jorge Manuel Lozano Gómez**
 
