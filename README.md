@@ -30,8 +30,10 @@ Además indicará donde está el fallo.
 ## Despliegue 📦
 
 Para ejecutar el código hay que utilizar un servidor web Apache, el cual puede ser proporcionado por programas como:
-* [XAMPP](https://www.apachefriends.org/es/index.html).
 
+* [XAMPP](https://www.apachefriends.org/es/index.html), en este caso copia tu proyecto a la carpeta "htdocs" ubicada en el directorio de instalacion de XAMPP.
+
+* Otra forma de ejecutar este codigo es utilizando una MV (Linux) como servidor , volcando el codigo a "/var/www/" y habilitar el servicio Apache2, ademas de tener PHP instalado.
 
 ## Futuras aplicaciones o reutilizaciones
 
