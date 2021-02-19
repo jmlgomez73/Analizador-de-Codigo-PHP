@@ -1,7 +1,7 @@
 # Analizador de código PHP
 
 
-Este programa analiza diversos ficheros (codificados en PHP) que se especifiquen en el archivo de "directories", posteriormente analizará los códigos y detectará errores en comentarios, bucles, estructuras de control, variables, falta de ficheros, etc...
+Este programa analiza diversos ficheros (programados en PHP) que se especifiquen en el archivo de "directories" bajo el modelo MVC (Modelo, Vista, Controlador), posteriormente analizará los códigos y detectará errores en comentarios, bucles, estructuras de control, variables, falta de ficheros, etc...
 Además indicará donde está el fallo.
 
 
